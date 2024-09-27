@@ -21,7 +21,8 @@
     "ejs": "^3.1.9",
     "express": "^4.18.2",
     "pg": "^8.13.0",
-    "typescript": ">=3.4 <3.6"
+    "typescript": ">=3.4 <3.6",
+    "vercel": "^28.18.5"
   },
   "devDependencies": {
     "gh-pages": "^6.1.1"
